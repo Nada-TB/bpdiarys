@@ -1,4 +1,4 @@
-# bpdiarys_plan
+# bpdiarys_plan : https://www.bpdiarys.com/
 
 Description du projet :
 	Thème: quotidien d'un jeune programmeur en herbe
