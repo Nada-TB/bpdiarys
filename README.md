@@ -1,5 +1,7 @@
 # bpdiarys_plan : https://www.bpdiarys.com/
 
+// si vous souhaitez consulter le code source , contactez moi :-)
+
 Description du projet :
 	Thème: quotidien d'un jeune programmeur en herbe
 	
