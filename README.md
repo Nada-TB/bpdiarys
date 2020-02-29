@@ -1,5 +1,7 @@
 # bpdiarys_plan : https://www.bpdiarys.com/
 
+![home page ](homePage_bpdiarys.png)
+
 // si vous souhaitez consulter le code source , contactez moi :-)
 
 Description du projet :
