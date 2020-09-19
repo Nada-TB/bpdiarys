@@ -2,8 +2,8 @@
 ## Graduation project 
 
 * ### [The application's features](#the-applications-features-)
-* ### [Development process](#development-process-1)	
-* ### [Programming concepts applied](#programming-concepts-applied-1)
+* ### [Development process](#development-process-)	
+* ### [Programming concepts applied](#programming-concepts-applied-)
 
 ## The application's features :
 ![sitemap](sitemap.png)
