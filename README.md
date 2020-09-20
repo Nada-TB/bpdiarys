@@ -30,7 +30,7 @@ positions|array methods|superglobals $_POST| create database
 flexbox|DOM methods|superglobals $_GET| database queries|
 responsive web design|DOM document|   superglobals $_FILES|SQL Data Types
 animations|regex|array methods |SQL Dates|
-| |Ajax|loop foreach|SQL PRIMARY KEY 
+CSS Selectors |Ajax|loop foreach|SQL PRIMARY KEY 
 | |JSON|condition(if/else)|SQL FOREIGN KEY|
 | |condition(if/else)|PHP filters|SQL Joins|
 | | string methods | PHP file|		
