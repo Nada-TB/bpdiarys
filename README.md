@@ -23,19 +23,22 @@
 
 ## Programming concepts applied :
 
-techno frontend | techno backend
-----------------|-----------------
-Responsive design| MySQL
-JavaScript| PHP
-HTML| MVC
-CSS|
-AJAX|
-
-
-		
-
-
-
+CSS | javascript|PHP|MySQL
+----|------------|------|-----------
+positions|array methods|superglobals $_POST| create database
+flexbox|DOM methods|superglobals $_GET| database queries|
+responsive web design|DOM document|   superglobals $_FILES|SQL Data Types
+animations|regex|array methods |SQL Dates|
+| |Ajax|loop foreach|SQL PRIMARY KEY 
+| |JSON|condition(if/else)|SQL FOREIGN KEY|
+| |condition(if/else)|PHP filters|SQL Joins|
+| | string methods | PHP file|		
+| | | PHP sessions|
+| | | PHP include|
+| | |PHP mail()|
+| | | PHP exceptions|
+| | | string methods|
+| | | PHP PDO|
 
 
 
