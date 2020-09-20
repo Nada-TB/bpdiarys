@@ -17,6 +17,7 @@
 * The administrator is authorized to access and delete the messages sent via the contact form.
 * Handle form validation in both frontend and backend.
 * Manage security issues.
+* MVC design pattern
 * Create a mood board web design.
 * Create a customized error page.
 * use the htaccess file to manage the URLs.
@@ -40,6 +41,7 @@ CSS Selectors |Ajax|loop foreach|SQL PRIMARY KEY
 | | | PHP exceptions|
 | | | string methods|
 | | | PHP PDO|
+| | | mvc design pattern|
 
 
 
