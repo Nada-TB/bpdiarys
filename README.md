@@ -13,6 +13,7 @@
 * The administrator is allowed to post an article ou update an existing one via a form with the possibility to attach a photo.
 * Send an email to members after posting an article.
 * A customized markdown enables the writer to format his text.  A javascript function will style the post after retrieving it from the database.
+* Link to share the post on twitter. 
 * The posts are available for read-only. The members have the permit to comment on the post, delete the comment, and also save a favorite article in the section favorites articles.
 * The administrator is authorized to access and delete the messages sent via the contact form.
 * Handle form validation in both frontend and backend.
