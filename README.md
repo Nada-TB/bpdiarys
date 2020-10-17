@@ -9,7 +9,7 @@
 ![sitemap](sitemap.png)
 
 ## Development process :
- * This web site is an upgrade version of a personal blog.
+ * This web site is an upgraded version of a personal blog.
 * The administrator is allowed to post an article ou update an existing one via a form with the possibility to attach a photo.
 * Send an email to members after posting an article.
 * A customized markdown enables the writer to format his text.  A javascript function will style the post after retrieving it from the database.
